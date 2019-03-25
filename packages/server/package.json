@@ -1,8 +1,8 @@
 {
   "name": "@walnut/server",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
-  "license": "MIT",  
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NaorManna/yarn-workspaces-example.git"
@@ -12,7 +12,7 @@
     "registry": "https://github.com/NaorManna/yarn-workspaces-example.git"
   },
   "dependencies": {
-    "@walnut/common": "^1.0.1",
+    "@walnut/common": "^1.0.4",
     "graphql-yoga": "^1.14.7"
   },
   "scripts": {
