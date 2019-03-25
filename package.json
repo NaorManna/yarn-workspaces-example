@@ -1,5 +1,6 @@
 {
   "private": true,
+  "main": "packages/server/index.js",
   "workspaces": [
     "packages/*"
   ],
